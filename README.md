@@ -1,1 +1,1 @@
-# cousera_AI
+# IBM Generative AI Engineering
